@@ -1,0 +1,7 @@
+/raw/*
+/external/*
+/interim/*
+/processed/*
+!/external/.gitkeep
+!/interim/.gitkeep
+!/processed/.gitkeep
